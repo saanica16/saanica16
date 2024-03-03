@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saanica Gupta</h1>
-<h3 align="center">Passionate iOS developer, currently working with Gojek-Tokopedia. Always a learner first!</h3>
+# <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> there, I'm Saanica Gupta.
+<h3 align="center">I'm a  iOS Developer and always a learner first!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saanica16&label=Profile%20views&color=0e75b6&style=flat" alt="saanica16" /> </p>
